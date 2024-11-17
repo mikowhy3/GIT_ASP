@@ -1,0 +1,63 @@
+﻿@model Dictionary<int, ContactModel>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!--Ten zapis informuje widok (plik .cshtml), że spodziewa się otrzymania modelu
+    , który jest słownikiem (Dictionary),
+
+gdzie klucz jest typu int, a wartość jest obiektem typu ContactModel.-->
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Kontakty</h2>
+<a class="btn btn-primary" asp-action="Add" asp-controller="Contact">Dodaj kontakt</a>
+<h4 class="mb-3">Lista Kontaktów</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Imię
+            </th>
+            <th>
+                Nazwisko
+            </th>
+            <th>
+                Operacje
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Liczba kontaktów w Model może się różnić –
+         czasami może być 10 kontaktów, innym razem 100 lub 0.
+         Dzięki pętli foreach możesz automatycznie wygenerować wiersze
+          tabeli dla każdego kontaktu bez konieczności pisania tego ręcznie.-->
+        <!--@Model to właśnie ten model (contacts), który przekazałeś z kontrolera.
+
+        Widok iteruje po każdym elemencie słownika przy użyciu foreach.-->
+        @foreach (var entry in @Model)
+        {
+            <tr>
+                <td>
+                    @entry.Value.First_Name
+                </td>
+                <td>
+                    @entry.Value.Last_Name
+                </td>
+
+                <td>
+                    <!-- asp-route-id potrzebne zeby przekazywac np do edit id typu int-->
+                    <a class="btn btn-success" asp-action="Edit" asp-controller="Contact" asp-route-id="@entry.Key">Edycja</a>
+                    <a class="btn btn-info" asp-action="Details" asp-controller="Contact" asp-route-id=@entry.Key>Szczegóły</a>
+                    <a class="btn btn-danger" asp-action="Delete" asp-controller="Contact" asp-route-id=@entry.Key>Usuń</a>
+                </td>
+
+
+
+            </tr>
+        }
+    </tbody>
+</table>

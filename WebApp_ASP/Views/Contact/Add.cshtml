@@ -1,0 +1,54 @@
+﻿
+@model WebApp_ASP.Models.ContactModel
+
+<h2>Dodaj kontakt</h2>
+
+
+<form asp-action="Add" method="post">
+
+
+	<div class="mb-3">
+		<!--usunelismy tekst z label wpisany na sztywno, bo dodalismy display
+			tesc etykiet uzaleziona od wlasnie display, tag helper pomaga
+			ogarnac co jest co
+			pomaga to w takiej sprawie, ze jeski chcemy zmienic imie na np twoje imie
+			to zmieniamy to tylko w modelu
+
+			// W CONTACTMODEL JEST METODA DISPLAY KTORA POBIERA I OD RAZU DAJE IMIE NAD,
+			ZAMIAST WPISYWAC TEGO NA SZTYWNO W LABEL
+		-->
+		<label class="form-label" asp-for="First_Name"></label>
+		<input class="form-control" asp-for="First_Name" />
+		<span class="text-danger" asp-validation-for="First_Name"></span>
+	</div>
+
+	<div class="mb-3">
+		<label class="form-label" asp-for="Last_Name"></label>
+		<input class="form-control" asp-for="Last_Name" />
+		<span class="text-danger" asp-validation-for="Last_Name"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label" asp-for="Email"></label>
+		<input class="form-control" asp-for="Email" />
+		<span class="text-danger" asp-validation-for="Email"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label" asp-for="PhoneNumber"></label>
+		<input class="form-control" asp-for="PhoneNumber" />
+		<span class="text-danger" asp-validation-for="PhoneNumber"></span>
+	</div>
+	<div class="mb-3">
+		<label class="form-label" asp-for="BirthDate"></label>
+		<input class="form-control" asp-for="BirthDate" />
+		<span class="text-danger" asp-validation-for="BirthDate"></span>
+	</div>
+	
+
+	
+
+	<button type="submit" class="btn btn-outline-primary">Dodaj</button>
+
+	<button type="reset" class="btn btn-outline-danger">Wyczysc</button>
+
+
+</form>

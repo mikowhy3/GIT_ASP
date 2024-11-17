@@ -1,0 +1,11 @@
+﻿@model WebApp_ASP.Models.ContactModel
+
+
+<h2> DETALE:</h2>
+
+<h3>@Model.First_Name</h3>
+<h3>@Model.Last_Name</h3>
+<h3>@Model.Email</h3>
+<h3>@Model.PhoneNumber</h3>
+<h3>@Model.BirthDate</h3>
+<a href="@Url.Action("Index", "Contact")">Powrót</a>

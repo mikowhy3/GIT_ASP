@@ -1,0 +1,48 @@
+﻿@model WebApp_ASP.Models.ContactModel
+
+<h2>Edytuj kontakt</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <!--// gdy dodamy tutaj asp-for, wtedy po nacisnieciu na imie przenosi-->
+        <!-- // nas do formularza, fajny detal-->
+        <!--// bez tego tez bedzie dzialac-->
+        <label class="form-label" asp-for="First_Name">Imię</label>
+        <!--// to popwoduje,ze mozemy wpisac dane-->
+        <!--// bez asp-for nie zostana przekazane dane-->
+        <input class="form-control" asp-for="First_Name" />
+        <!--// to okresla nam jaki blad konkretnie zostanie wyswietlony-->
+        <span class="text-danger" asp-validation-for="First_Name"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="Last_Name">Nazwisko</label>
+        <input class="form-control" asp-for="Last_Name" />
+        <span class="text-danger" asp-validation-for="Last_Name"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="Email">Email</label>
+        <input class="form-control" asp-for="Email" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="PhoneNumber">Nr tel</label>
+        <input class="form-control" asp-for="PhoneNumber" />
+        <span class="text-danger" asp-validation-for="PhoneNumber"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="BirthDate">Data ur.</label>
+        <input class="form-control" asp-for="BirthDate" />
+        <span class="text-danger" asp-validation-for="BirthDate"></span>
+    </div>
+
+    <!--//type="submit": Określa, że kliknięcie przycisku spowoduje przesłanie formularza.-->
+    <button type="submit" class="btn btn-primary">Zapisz zmiany</button>
+    <a href="@Url.Action("Index", "Contact")" class="btn btn-secondary">Powrót</a>
+</form>
+   

@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\controllers\\birthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:controllers\\birthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\birth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\birth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\calculator\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\calculator\\form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\calculator\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\calculator\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,73 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T16:59:30.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Birth.cs",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Birth.cs",
-              "RelativeDocumentMoniker": "Models\\Birth.cs",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Birth.cs",
-              "RelativeToolTip": "Models\\Birth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:57:25.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BirthController.cs",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\BirthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BirthController.cs",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\BirthController.cs",
-              "RelativeToolTip": "Controllers\\BirthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:55:39.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Calculator\\Form.cshtml",
-              "RelativeDocumentMoniker": "Views\\Calculator\\Form.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Calculator\\Form.cshtml",
-              "RelativeToolTip": "Views\\Calculator\\Form.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T16:54:17.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Result.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Calculator\\Result.cshtml",
-              "RelativeDocumentMoniker": "Views\\Calculator\\Result.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Calculator\\Result.cshtml",
-              "RelativeToolTip": "Views\\Calculator\\Result.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T16:52:28.968Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -119,28 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Calculator.cs",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Calculator.cs",
-              "RelativeDocumentMoniker": "Models\\Calculator.cs",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Calculator.cs",
-              "RelativeToolTip": "Models\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T21:21:06.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Details.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T21:16:00.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactModel.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\ContactModel.cs",
+              "RelativeToolTip": "Models\\ContactModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:42:17.15Z",
+              "WhenOpened": "2024-11-17T17:54:43.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Add.cshtml",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Add.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T21:02:05.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CalculatorController.cs",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\CalculatorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\CalculatorController.cs",
-              "RelativeToolTip": "Controllers\\CalculatorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvzIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T17:58:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:30:52.931Z",
+              "WhenOpened": "2024-11-17T17:55:29.506Z",
               "EditorCaption": ""
             }
           ]
