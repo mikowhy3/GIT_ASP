@@ -1,0 +1,39 @@
+﻿﻿<div class="container">
+    <div class="row justify-content-md-center">
+        <div class="col-6">
+            <h2>Kalkulator</h2>
+
+
+           <!-- action="Result" oznacza, że po kliknięciu "Oblicz", formularz wyśle dane do metody akcji o nazwie Result w kontrolerze.
+            method="POST" oznacza, że te dane zostaną wysłane jako żądanie POST (jest to standardowy sposób wysyłania danych z formularza).
+            Formularz kalkulatora wysyła żądania typu GET, co powoduje, że dane formularza są dołączane jako query do url żądania. Są jednak sytuacje, gdy wysyłanie danych w query nie jest wskazane, np. dane logowania.
+            Osoba stojąca obok mogłaby zobaczyć wrażliwe dane wyświetlane w pasku adresu przeglądarki.
+
+            Zmienimy typ metody formularza na POST, co spowoduje, że dane formularza zostaną przesłane w ciele żądania.
+                -->
+            <form action="Result" method="POST">
+                <div class="mb-3">
+                    <label class="form-label" for="X">Liczba 1</label>
+                    <input class="form-control" type="number" name="X" step="0.00001" id="x" />
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="op">Operator</label>
+
+                    <select name="operator">
+                        <option value="add">+</option>
+                        <option value="sub">&minus;</option>
+                        <option value="mul">&times;</option>
+                        <option value="div">&divide;</option>
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="Y">Liczba 2</label>
+                    <input class="form-control" type="number" name="Y" step="0.00001" id="y" />
+                </div>
+                <div class="mb-3">
+                    <button class="btn btn-primary" type="submit">Oblicz</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
