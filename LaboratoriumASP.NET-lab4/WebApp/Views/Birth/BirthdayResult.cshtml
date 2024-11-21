@@ -1,0 +1,7 @@
+﻿@model WebApp.Models.Birthday
+@{
+    ViewBag.Title = "Wynik";
+    Layout = "_Layout";
+}
+<h2>@ViewBag.Title</h2>
+<h2>Cześć @Model.Name, masz @Model.Birth() lat(a). </h2>

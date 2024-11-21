@@ -1,0 +1,20 @@
+﻿@model ContactModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Dane:</h2>
+<h3>Imie i nazwisko</h3>
+<h4>@Model.FirstName @Model.LastName</h4>
+<h3>Numer Telefonu</h3>
+<h4>@Model.phoneNumber</h4>
+<h3>E-mail</h3>
+<h4>@Model.Email</h4>
+<h3>Data Urodzenia</h3>
+<h4>@Model.Birthday</h4>
+
+<div class="mt-3">
+    <a class="btn btn-primary" asp-action="Index">Powrót do listy</a>
+</div>
