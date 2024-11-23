@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\services\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\services\\efcontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\services\\efcontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\services\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\services\\contactentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\mappers\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:mappers\\contactmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\webapp_asp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:webapp_asp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|c:\\users\\mikol\\onedrive\\pulpit\\2rokasp\\zgodnie_z_tym_co_na_wsei\\webapp_asp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61D6284D-1D3E-4A04-A26F-45F65D61E09F}|WebApp_ASP.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,81 +62,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:42:45.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T21:21:06.162Z",
+              "Title": "ContactEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\ContactEntity.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\ContactEntity.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\ContactEntity.cs",
+              "RelativeToolTip": "Models\\Services\\ContactEntity.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowC0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:16:54.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Services\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:18:16.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Details.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Details.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T21:16:00.197Z",
+              "Title": "EFContactService.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\EFContactService.cs",
+              "RelativeDocumentMoniker": "Models\\Services\\EFContactService.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Services\\EFContactService.cs",
+              "RelativeToolTip": "Models\\Services\\EFContactService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:59:14.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ContactMapper.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Mappers\\ContactMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\ContactMapper.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Mappers\\ContactMapper.cs",
+              "RelativeToolTip": "Mappers\\ContactMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:38:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ContactModel.cs",
               "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\ContactModel.cs",
               "RelativeDocumentMoniker": "Models\\ContactModel.cs",
               "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\ContactModel.cs",
               "RelativeToolTip": "Models\\ContactModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAMwCMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T17:54:43.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Add.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Add.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Add.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T21:02:05.277Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:39:12.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvzIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T17:58:37.948Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "WebApp_ASP.csproj",
+              "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\WebApp_ASP.csproj",
+              "RelativeDocumentMoniker": "WebApp_ASP.csproj",
+              "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\WebApp_ASP.csproj",
+              "RelativeToolTip": "WebApp_ASP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T17:02:32.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
               "ToolTip": "C:\\Users\\mikol\\OneDrive\\Pulpit\\2ROKASP\\ZGODNIE_Z_TYM_CO_NA_WSEI\\WebApp_ASP\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAcwFUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:55:29.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-17T17:55:29.506Z"
             }
           ]
         }
