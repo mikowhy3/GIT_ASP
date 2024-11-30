@@ -1,0 +1,61 @@
+﻿@model List<ContactModel>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h2>Kontakty</h2>
+<a class="btn btn-primary" asp-action="Add" asp-controller="Contakt">Dodaj kontakt</a>
+<h4 class="mb-3">Lista kontaktów</h4>
+@if(Model.Count>0){
+    <table class="table">
+        <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(models =>models[0].FirstName )
+            </th>
+            <th>
+                @Html.DisplayNameFor(models =>models[0].LastName )
+            </th>
+            <th>
+                @Html.DisplayNameFor(models =>models[0].Category )
+            </th>
+            <th>
+                @Html.DisplayNameFor(models =>models[0].Organization)
+            </th>
+            <th>
+                Operacje
+            </th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var entry in @Model)
+        {
+            <tr>
+                <td>
+                    @entry.FirstName
+                </td>
+                <td>
+                    @entry.LastName
+                </td>
+                <td>
+                    @entry.Category.GetDisplayName()
+                </td>
+                <td>
+                    @(entry.Organization?.Name??"Brak Organizacji")
+                </td>
+                <td>
+                    <a CLASS="btn btn-success" asp-action="Edit" asp-controller="Contakt" asp-route-id="@entry.Id">Edytuj</a>
+                    <a CLASS="btn btn-info" asp-action="Details" asp-controller="Contakt" asp-route-id="@entry.Id">Szczegóły</a>
+                    <a CLASS="btn btn-danger" asp-action="Delete" asp-controller="Contakt" asp-route-id="@entry.Id">Usuń</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+else
+{
+    <h2>Nie ma jeszcze kontaków</h2>
+}
