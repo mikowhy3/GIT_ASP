@@ -1,8 +1,10 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApp.Models;
 
-public class AppDbContext : DbContext
+public class AppDbContext : IdentityDbContext<IdentityUser>
 {
     public DbSet<ContactEntity> Contacts { get; set; }
     public DbSet<OrganizationEntity> Organizations { get; set; }
@@ -22,6 +24,75 @@ public class AppDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
+        var ADMIN_ID = Guid.NewGuid().ToString();
+        var ADMIN_ROLE_ID = Guid.NewGuid().ToString();
+        var USER_ID = Guid.NewGuid().ToString();
+        var USER_ROLE_ID = Guid.NewGuid().ToString();
+
+        modelBuilder.Entity<IdentityRole>()
+            .HasData( new IdentityRole()
+                {
+                    Id = ADMIN_ROLE_ID,
+                    Name = "admin",
+                    NormalizedName = "admin".ToUpper(),
+                    ConcurrencyStamp = ADMIN_ROLE_ID
+                },
+                new IdentityRole()
+                {
+                    Id = USER_ROLE_ID,
+                    Name = "user",
+                    NormalizedName = "user".ToUpper(),
+                    ConcurrencyStamp = USER_ROLE_ID
+                }
+            );
+
+        var admin = new IdentityUser()
+        {
+            Id = ADMIN_ID,
+            UserName = "Igor",
+            NormalizedUserName = "igor".ToUpper(),
+            Email = "igor@wsei.edu.pl",
+            NormalizedEmail = "igor@wsei.edu.pl".ToUpper(),
+            EmailConfirmed = true
+        };
+        
+        var user = new IdentityUser()
+        {
+            Id = USER_ID,
+            UserName = "John",
+            NormalizedUserName = "john".ToUpper(),
+            Email = "superchlopak@gmail.com",
+            NormalizedEmail = "superchlopak@gmail.com".ToUpper(),
+            EmailConfirmed = true
+        };
+
+        
+        var hasher = new PasswordHasher<IdentityUser>();
+        admin.PasswordHash = hasher.HashPassword(admin, "1234!");
+        user.PasswordHash = hasher.HashPassword(user, "1234");
+        modelBuilder.Entity<IdentityUser>()
+            .HasData(admin,user);
+        
+        modelBuilder.Entity<IdentityUserRole<string>>()
+            .HasData(
+                new IdentityUserRole<string>
+                {
+                    RoleId = ADMIN_ROLE_ID,
+                    UserId = ADMIN_ID
+                },
+                new IdentityUserRole<string>
+                {
+                    RoleId = USER_ROLE_ID,
+                    UserId = USER_ID
+                },
+                new IdentityUserRole<string>
+                {
+                    RoleId = USER_ROLE_ID,
+                    UserId = ADMIN_ID
+                }
+            );
+        
         modelBuilder.Entity<OrganizationEntity>()
             .ToTable("Organizations")
             .HasData(
